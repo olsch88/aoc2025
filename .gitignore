@@ -8,5 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-
+template.py
 *input.txt
